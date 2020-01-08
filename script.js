@@ -138,7 +138,7 @@ var config = {
 			cubicInterpolationMode: 'monotone',
 			hidden: true
 		}, {
-			label: 'Регистирани Престъпления с наркотици',
+			label: 'Регистирани Престъпления, свързани с наркотици',
 			fill: false,
 			backgroundColor: colors[10],
 			borderColor: colors[10],
@@ -146,7 +146,7 @@ var config = {
 			cubicInterpolationMode: 'monotone',
 			hidden: true
 		}, {
-			label: 'Разкрити Престъпления с наркотици',
+			label: 'Разкрити Престъпления, свързани с наркотици',
 			fill: false,
 			backgroundColor: colors[11],
 			borderColor: colors[11],
